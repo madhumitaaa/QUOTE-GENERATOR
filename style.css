@@ -1,0 +1,57 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    background-color: rgb(5, 5, 5);
+    
+}
+
+#h{
+    color:rgb(246, 243, 243);
+    text-align: center;
+    margin-bottom:230px;
+    margin-top:50px;
+    font-size: 50px;
+    
+
+}
+#content{
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/024/495/391/small_2x/earth-day-and-world-environment-day-spring-beautiful-natural-verdant-green-forest-in-summer-generate-ai-free-photo.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;        /* stretches the image to cover the div */
+  background-position: center; 
+  background-color: rgba(0, 0, 0, 0.5); /* dark overlay */
+  background-blend-mode: darken;       /* blends dark color over image */
+
+  color: white; /* makes text readable */
+  padding: 20px;
+ margin-top:100px;
+    align-items: center;
+    margin-left:500px;
+    margin-bottom:100px;
+    height:500px;
+    width:500px;
+    align-self: center;
+    
+}
+#click{
+    color:rgb(248, 242, 242);
+    height:40px;
+    width:120px;
+    background-color: transparent;
+    font-size: 12px;
+       font-family: 'Times New Roman', Times, serif;
+    border-width:4px;
+    border-color: white;
+    align-content: baseline;
+    margin-left:190px;
+}
+#quote{
+    color:rgb(241, 236, 236);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    margin-bottom:20px;
+    text-align: center;
+}
